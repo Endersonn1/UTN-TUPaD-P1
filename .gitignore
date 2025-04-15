@@ -1,0 +1,12 @@
+# Ignorar archivos de sistema
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+env/
+venv/
+.entorno_virtual/
+entorno_*/
